@@ -1,5 +1,8 @@
 # PRIMER-PROYECTO
 Desarrolla una aplicación de consola que permita al Comité Olímpico Guatemalteco registrar y analizar el rendimiento de sus atletas de alto nivel.
+<p align="center">
+<img width="481" height="551" alt="DiagramaUML" src="https://github.com/user-attachments/assets/cfde8e83-c9a4-462e-88bd-1815a2a20051" />
+</p>
 
 ```java
 import java.io.*;
